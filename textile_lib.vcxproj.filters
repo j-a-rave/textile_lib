@@ -26,9 +26,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="textile_lib.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="npc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
